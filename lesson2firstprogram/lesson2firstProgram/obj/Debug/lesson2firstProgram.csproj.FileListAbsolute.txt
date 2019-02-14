@@ -1,0 +1,12 @@
+C:\Users\SirJUST\source\repos\windowsForms\lesson2firstProgram\lesson2firstProgram\bin\Debug\lesson2firstProgram.exe.config
+C:\Users\SirJUST\source\repos\windowsForms\lesson2firstProgram\lesson2firstProgram\bin\Debug\lesson2firstProgram.exe
+C:\Users\SirJUST\source\repos\windowsForms\lesson2firstProgram\lesson2firstProgram\bin\Debug\lesson2firstProgram.pdb
+C:\Users\SirJUST\source\repos\windowsForms\lesson2firstProgram\lesson2firstProgram\obj\Debug\lesson2firstProgram.csprojAssemblyReference.cache
+C:\Users\SirJUST\source\repos\windowsForms\lesson2firstProgram\lesson2firstProgram\obj\Debug\lesson2firstProgram.Form1.resources
+C:\Users\SirJUST\source\repos\windowsForms\lesson2firstProgram\lesson2firstProgram\obj\Debug\lesson2firstProgram.Properties.Resources.resources
+C:\Users\SirJUST\source\repos\windowsForms\lesson2firstProgram\lesson2firstProgram\obj\Debug\lesson2firstProgram.csproj.GenerateResource.cache
+C:\Users\SirJUST\source\repos\windowsForms\lesson2firstProgram\lesson2firstProgram\obj\Debug\lesson2firstProgram.csproj.CoreCompileInputs.cache
+C:\Users\SirJUST\source\repos\windowsForms\lesson2firstProgram\lesson2firstProgram\obj\Debug\lesson2firstProgram.exe
+C:\Users\SirJUST\source\repos\windowsForms\lesson2firstProgram\lesson2firstProgram\obj\Debug\lesson2firstProgram.pdb
+C:\Users\SirJUST\source\repos\windowsForms\lesson2firstProgram\lesson2firstProgram\obj\Debug\lesson2firstProgram.Form2.resources
+C:\Users\SirJUST\source\repos\windowsForms\lesson2firstProgram\lesson2firstProgram\obj\Debug\lesson2firstProgram.Form3.resources
